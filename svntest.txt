@@ -1,3 +1,4 @@
 SVN version1 test
 Add the second row in this file and submit it via SVN client application.
+This is the third row I added via SVN
 
